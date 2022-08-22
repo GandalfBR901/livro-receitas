@@ -1,6 +1,6 @@
-#Strogonoff de Frango:
+# Strogonoff de Frango:
 
-###Ingredientes
+### Ingredientes
 
 500 g de frango picado em cubinhos
 
@@ -26,7 +26,7 @@ Pimenta-do-reino a gosto
 
 Sal a gosto
 
-###Modo de preparo
+### Modo de preparo
 
 1
 Em uma panela, coloque 3 colheres de sopa de óleo e 1 tablete de caldo de galinha. Espere aquecer para dissolver o tablete.
